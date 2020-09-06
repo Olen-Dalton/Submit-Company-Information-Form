@@ -1,0 +1,32 @@
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -5px;
+  margin-left: -5px;
+}
+
+.modal-content {
+  position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: .3rem;
+    outline: 0;
+}
+
+.div {
+  max-width: 500px;
+  margin: auto; 
+}
+
+.button-cancel {
+  
+}
+
+.button-send {
+  
+}
